@@ -1,0 +1,6 @@
+framework module Pods_CoctailApp_CoctailAppUITests {
+  umbrella header "Pods-CoctailApp-CoctailAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
